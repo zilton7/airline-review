@@ -24,7 +24,7 @@ airlines = Airline.create([
   },
   {
     name: 'JetBlue',
-    image_url: 'https://open-flights.s3.amazonaws.com/JetBlues.png'
+    image_url: 'https://open-flights.s3.amazonaws.com/JetBlue.png'
   },
   {
     name: 'American Airlines',
