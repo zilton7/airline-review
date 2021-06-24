@@ -13,7 +13,8 @@ const Wrapper = styled.div`
 const Column = styled.div`
   background: #fff;
   height: 100vh;
-  overflow: scroll;
+  overflow: hidden;
+  padding: 10px;
 
   &:last-child {
     background: #000;
