@@ -25,7 +25,7 @@ gem 'fast_jsonapi'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
-
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
 
